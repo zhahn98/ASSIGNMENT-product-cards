@@ -2,3 +2,18 @@ body {
   background-color: palegreen;
   background-size: contain;
 }
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  border: solid lightblue 1px;
+}
+
+.banner {
+  color: gold;
+  background-color: gray;
+}
